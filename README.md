@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Arshan 👋
-- 🔭 I’m currently pursuing B.Tech in Computer Engineering from Jamia Millia Islamia,New Delhi.
+- 🔭 I’m currently pursuing B.Tech in Computer Engineering from Jamia Millia Islamia,New Delhi (Batch 2022).
 - 🌱 I’m currently learning Robot operating system and Django.
 - 👯 I’m looking to collaborate on any IOT or App/Web-backend Development project.
 - 💬 Ask me about anything related to Python,C++,AWS,Django,ROS.
