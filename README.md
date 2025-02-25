@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Arshan 👋
-- 🔭 I’m currently pursuing at Cisco.
+- 🔭 I’m currently Working at Cisco.
 - 🌱 I’m currently learning Cyber Secuirty and AI.
-- 👯 I’m looking to collaborate on any Cyber Secuirty + AI project.
+- 👯 I’m looking to collaborate on any Cyber Secuirty + AI project ex: SIEM.
 - 💬 Ask me about anything related to Cyber Secuirty.
 - 📫 How to reach me:Connect to me on Linkedin: https://www.linkedin.com/in/41arshan-ahmad/
 
