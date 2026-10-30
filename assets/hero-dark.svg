@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img"><title>Arshan Ahmad: I build AI systems and break insecure ones</title><style>svg{--panel:#161b22;--line:#30363d;--text:#e6edf3;--dim:#8b949e;--green:#3fb950;--blue:#58a6ff;--red:#f85149;--amber:#d29922}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:var(--text)}
+.dim{fill:var(--dim)}
+.link{stroke:var(--line);stroke-width:2;fill:none}
+.pill{fill:var(--panel);stroke:var(--line);stroke-width:2}
+.mid{text-anchor:middle;dominant-baseline:central}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cursor{fill:var(--green);animation:blink 1.2s steps(1) infinite}
+@keyframes p-ai{0%{transform:translate(0,0);opacity:0}6%{opacity:1}48%{opacity:1}55%{transform:translate(-106px,-78px);opacity:0}100%{transform:translate(-106px,-78px);opacity:0}}
+.p-ai{fill:var(--blue)}
+.p-ai{animation:p-ai 9s linear 0s infinite}
+@keyframes p-sec{0%{transform:translate(0,0);opacity:0}6%{opacity:1}48%{opacity:1}55%{transform:translate(118px,-68px);opacity:0}100%{transform:translate(118px,-68px);opacity:0}}
+.p-sec{fill:var(--green)}
+.p-sec{animation:p-sec 9s linear -6s infinite}
+@keyframes p-bot{0%{transform:translate(0,0);opacity:0}6%{opacity:1}48%{opacity:1}55%{transform:translate(44px,92px);opacity:0}100%{transform:translate(44px,92px);opacity:0}}
+.p-bot{fill:var(--amber)}
+.p-bot{animation:p-bot 9s linear -3s infinite}
+@keyframes p-bad{0%{transform:translate(0,0);opacity:0}8%{opacity:1}30%{transform:translate(-40px,-62px);opacity:1}36%,100%{transform:translate(-40px,-62px);opacity:0}}
+.p-bad{fill:var(--red)}
+.p-bad{animation:p-bad 9s linear -8s infinite}
+@keyframes shield{0%,28%{opacity:0}32%{opacity:1}46%{opacity:0}100%{opacity:0}}
+.shield{fill:none;stroke:var(--red);stroke-width:2.5}
+.shield{animation:shield 9s linear -8s infinite}
+</style><rect x="1" y="1" width="798" height="298" rx="14" fill="var(--panel)" stroke="var(--line)" stroke-width="2"/>
+<text x="36" y="72" font-size="18" class="dim">$ whoami</text>
+<text x="36" y="124" font-size="42" font-weight="700">arshan ahmad</text>
+<text x="36" y="170" font-size="23">i build ai systems</text>
+<text x="36" y="204" font-size="23">and break insecure ones</text>
+<rect class="cursor" x="360" y="186" width="13" height="22"/>
+<line class="link" x1="590" y1="150" x2="470" y2="62"/>
+<line class="link" x1="590" y1="150" x2="725" y2="72"/>
+<line class="link" x1="590" y1="150" x2="640" y2="256"/>
+<line class="link" x1="772" y1="172" x2="732" y2="110" stroke-dasharray="4 6"/>
+<circle class="p-ai" cx="590" cy="150" r="6"/>
+<circle class="p-sec" cx="590" cy="150" r="6"/>
+<circle class="p-bot" cx="590" cy="150" r="6"/>
+<circle class="p-bad" cx="772" cy="172" r="6"/>
+<rect class="pill" x="412" y="42" width="116" height="40" rx="20"/>
+<text class="mid" x="470" y="62" font-size="16">ai agents</text>
+<rect class="pill" x="667" y="52" width="116" height="40" rx="20"/>
+<text class="mid" x="725" y="72" font-size="16">security</text>
+<rect class="shield" x="659" y="44" width="132" height="56" rx="28"/>
+<rect class="pill" x="582" y="236" width="116" height="40" rx="20"/>
+<text class="mid" x="640" y="256" font-size="16">robotics</text>
+<circle class="pill" cx="590" cy="150" r="42"/>
+<text class="mid" x="590" y="150" font-size="16" font-weight="700">arshan</text>
+</svg>

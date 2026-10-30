@@ -1,22 +1,16 @@
+<a href="https://www.linkedin.com/in/41arshan-ahmad/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img width="100%" alt="Arshan Ahmad: I build AI systems and break insecure ones. An animated network links AI agents, security and robotics." src="assets/hero-light.svg"></picture></a>
 
-<!--
-**1arshan/1arshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/Abusadat18/ReliefNet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reliefnet-dark.svg"><img width="49.2%" alt="ReliefNet: AI agents sharing one FalkorDB memory graph" src="assets/reliefnet-light.svg"></picture></a>
+<a href="https://github.com/1arshan/AI-Driven-Penetration-Testing-Framework"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pentest-dark.svg"><img width="49.2%" alt="AI pentest agents: recon and vulnerability discovery with LLMs" src="assets/pentest-light.svg"></picture></a>
+<a href="https://zenodo.org/records/19209393"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fast-flux-dark.svg"><img width="49.2%" alt="Fast Flux: botnet emulation and ML detection (preprint)" src="assets/fast-flux-light.svg"></picture></a>
+<a href="https://github.com/1arshan/Eyantra_Virgi-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/virgi-bot-dark.svg"><img width="49.2%" alt="Virgi-bot: warehouse robot, e-Yantra 2nd place" src="assets/virgi-bot-light.svg"></picture></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Arshan 👋
-- 🔭 I’m currently Working at Cisco.
-- 🌱 I’m currently learning Cyber Secuirty and AI.
-- 👯 I’m looking to collaborate on any Cyber Secuirty + AI project ex:  Security-Information-and-Event-Management, AI-Driven-Penetration-Testing-Framework and Vulnerabilty Detection
-- 💬 Ask me about anything related to Cyber Secuirty.
-- 📫 How to reach me:Connect to me on Linkedin: https://www.linkedin.com/in/41arshan-ahmad/
-
+- 🎓 M.Sc. Computer Science at RPTU Kaiserslautern
+- 💼 Previously at Cisco, building a RAG assistant and data pipelines
+- 🌱 Currently learning cyber security, AI and robotics
+- 👯 Open to collaborate on cyber security, AI and robotics projects, like [SIEM](https://github.com/1arshan/Security-Information-and-Event-Management), [vulnerability detection](https://github.com/1arshan/vulnerabilty-scanner-with-ML) and [warehouse robots](https://github.com/1arshan/Eyantra_Virgi-bot)
+- 📦 Published [django-search-arrayfield](https://pypi.org/project/django-search-arrayfield/) on PyPI
+- 💬 Ask me about cyber security, RAG and AI agents
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/41arshan-ahmad/)
