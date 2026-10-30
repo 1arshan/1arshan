@@ -7,12 +7,10 @@
 <a href="https://github.com/1arshan/Eyantra_Virgi-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/virgi-bot-dark.svg"><img width="49.2%" alt="Virgi-bot: warehouse robot, e-Yantra 2nd place" src="assets/virgi-bot-light.svg"></picture></a>
 </p>
 
-<samp>reliefnet: built with [Abu Sadat](https://github.com/Abusadat18) for Graph Hacks (WeMakeDevs × FalkorDB).</samp>
-
 - 🎓 M.Sc. Computer Science at RPTU Kaiserslautern
 - 💼 Previously at Cisco, building a RAG assistant and data pipelines
-- 🌱 Currently learning cyber security and AI
-- 👯 Open to collaborate on AI + security projects, like [SIEM](https://github.com/1arshan/Security-Information-and-Event-Management) and [vulnerability detection](https://github.com/1arshan/vulnerabilty-scanner-with-ML)
+- 🌱 Currently learning cyber security, AI and robotics
+- 👯 Open to collaborate on cyber security, AI and robotics projects, like [SIEM](https://github.com/1arshan/Security-Information-and-Event-Management), [vulnerability detection](https://github.com/1arshan/vulnerabilty-scanner-with-ML) and [warehouse robots](https://github.com/1arshan/Eyantra_Virgi-bot)
 - 📦 Published [django-search-arrayfield](https://pypi.org/project/django-search-arrayfield/) on PyPI
 - 💬 Ask me about cyber security, RAG and AI agents
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/41arshan-ahmad/)
