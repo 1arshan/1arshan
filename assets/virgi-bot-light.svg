@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 260" width="440" height="260" role="img"><title>Virgi-bot: warehouse robot, e-Yantra 2nd place</title><style>svg{--panel:#f6f8fa;--line:#d0d7de;--text:#1f2328;--dim:#656d76;--green:#1a7f37;--blue:#0969da;--red:#cf222e;--amber:#9a6700}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:var(--text)}
+.dim{fill:var(--dim)}
+.link{stroke:var(--line);stroke-width:2;fill:none}
+.pill{fill:var(--panel);stroke:var(--line);stroke-width:2}
+.mid{text-anchor:middle;dominant-baseline:central}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes bot{0%,6%{transform:translateX(0)}46%,54%{transform:translateX(240px)}94%,100%{transform:translateX(0)}}
+.bot{animation:bot 10s linear 0s infinite}
+@keyframes box{0%,6%{transform:translate(0,0);opacity:1}46%{transform:translate(240px,0);opacity:1}52%{transform:translate(292px,34px);opacity:1}88%{transform:translate(292px,34px);opacity:1}92%{transform:translate(292px,34px);opacity:0}93%{transform:translate(0,0);opacity:0}100%{transform:translate(0,0);opacity:1}}
+.box{animation:box 10s linear 0s infinite}
+.crate{fill:var(--amber)}
+.body{fill:var(--blue)}
+.wheel{fill:var(--text)}
+</style><rect x="1" y="1" width="438" height="258" rx="14" fill="var(--panel)" stroke="var(--line)" stroke-width="2"/><line class="link" x1="24" y1="166" x2="416" y2="166"/><rect class="pill" x="344" y="112" width="70" height="54" rx="4"/><text class="mid dim" x="379" y="96" font-size="14">orders</text><g class="bot"><rect class="body" x="44" y="112" width="74" height="36" rx="6"/><circle class="wheel" cx="62" cy="156" r="10"/><circle class="wheel" cx="100" cy="156" r="10"/><circle cx="66" cy="130" r="4" fill="var(--panel)"/><circle cx="96" cy="130" r="4" fill="var(--panel)"/></g><rect class="crate box" x="62" y="80" width="38" height="32" rx="3"/><text x="26" y="206" font-size="30" font-weight="700">Virgi-bot</text><text x="26" y="238" font-size="20" class="dim">e-yantra 2nd place robot</text><text x="414" y="206" font-size="22" class="dim" text-anchor="end">↗</text></svg>

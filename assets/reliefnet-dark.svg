@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 260" width="440" height="260" role="img"><title>ReliefNet: AI agents sharing one FalkorDB memory graph</title><style>svg{--panel:#161b22;--line:#30363d;--text:#e6edf3;--dim:#8b949e;--green:#3fb950;--blue:#58a6ff;--red:#f85149;--amber:#d29922}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:var(--text)}
+.dim{fill:var(--dim)}
+.link{stroke:var(--line);stroke-width:2;fill:none}
+.pill{fill:var(--panel);stroke:var(--line);stroke-width:2}
+.mid{text-anchor:middle;dominant-baseline:central}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes c1{0%,12%{transform:translate(0,0);opacity:1}38%{transform:translate(120px,50px);opacity:0}88%{transform:translate(120px,50px);opacity:0}96%,100%{transform:translate(0,0);opacity:1}}
+@keyframes c2{0%,12%{transform:translate(0,0);opacity:1}38%{transform:translate(120px,0px);opacity:0}88%{transform:translate(120px,0px);opacity:0}96%,100%{transform:translate(0,0);opacity:1}}
+@keyframes c3{0%,12%{transform:translate(0,0);opacity:1}38%{transform:translate(120px,-50px);opacity:0}88%{transform:translate(120px,-50px);opacity:0}96%,100%{transform:translate(0,0);opacity:1}}
+.c1{animation:c1 10s linear 0s infinite}
+.c2{animation:c2 10s linear 0s infinite}
+.c3{animation:c3 10s linear 0s infinite}
+@keyframes node{0%,30%{opacity:.25}40%,88%{opacity:1}96%,100%{opacity:.25}}
+.node{animation:node 10s linear 0s infinite}
+@keyframes claim{0%,50%{stroke-dashoffset:96}64%,88%{stroke-dashoffset:0}96%,100%{stroke-dashoffset:96}}
+.claim{stroke:var(--green);stroke-width:3;stroke-dasharray:96;fill:none}
+.claim{animation:claim 10s linear 0s infinite}
+</style><rect x="1" y="1" width="438" height="258" rx="14" fill="var(--panel)" stroke="var(--line)" stroke-width="2"/><g class="c1"><rect class="pill" x="24" y="22" width="150" height="36" rx="8"/><text class="mid" x="99" y="40" font-size="15">need food</text></g><g class="c2"><rect class="pill" x="24" y="72" width="150" height="36" rx="8"/><text class="mid" x="99" y="90" font-size="15">help, ward 12</text></g><g class="c3"><rect class="pill" x="24" y="122" width="150" height="36" rx="8"/><text class="mid" x="99" y="140" font-size="15">family of 5</text></g><g class="node"><circle class="pill" cx="262" cy="90" r="38" style="stroke:var(--blue)"/><text class="mid" x="262" y="90" font-size="15">family</text></g><line class="claim" x1="300" y1="90" x2="396" y2="90"/><circle class="pill" cx="384" cy="90" r="30" style="stroke:var(--green)"/><text class="mid" x="384" y="90" font-size="14">agent</text><text x="26" y="206" font-size="30" font-weight="700">ReliefNet</text><text x="26" y="238" font-size="20" class="dim">agents on one falkordb graph</text><text x="414" y="206" font-size="22" class="dim" text-anchor="end">↗</text></svg>

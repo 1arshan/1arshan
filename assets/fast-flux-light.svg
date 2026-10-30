@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 260" width="440" height="260" role="img"><title>Fast Flux networks: emulation and ML detection</title><style>svg{--panel:#f6f8fa;--line:#d0d7de;--text:#1f2328;--dim:#656d76;--green:#1a7f37;--blue:#0969da;--red:#cf222e;--amber:#9a6700}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:var(--text)}
+.dim{fill:var(--dim)}
+.link{stroke:var(--line);stroke-width:2;fill:none}
+.pill{fill:var(--panel);stroke:var(--line);stroke-width:2}
+.mid{text-anchor:middle;dominant-baseline:central}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.ip0{animation:ip 9s linear 0s infinite}
+.ip1{animation:ip 9s linear -6s infinite}
+.ip2{animation:ip 9s linear -3s infinite}
+@keyframes ip{0%{opacity:0}4%,28%{opacity:1}33%,100%{opacity:0}}
+@keyframes ttl{0%{transform:scaleX(1)}33.3%{transform:scaleX(0)}33.4%{transform:scaleX(1)}66.6%{transform:scaleX(0)}66.7%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.ttl{fill:var(--amber);transform-origin:212px 120px}
+.ttl{animation:ttl 9s linear 0s infinite}
+@keyframes flag{0%,60%{opacity:0}66%,94%{opacity:1}100%{opacity:0}}
+.ip1,.ip2{opacity:0}
+.flag{stroke:var(--red)}
+.flagt{fill:var(--red)}
+.flagg{animation:flag 9s linear 0s infinite}
+</style><rect x="1" y="1" width="438" height="258" rx="14" fill="var(--panel)" stroke="var(--line)" stroke-width="2"/><rect class="pill" x="24" y="46" width="146" height="48" rx="8"/><text class="mid" x="97" y="70" font-size="16">evil.test</text><line class="link" x1="170" y1="70" x2="212" y2="70"/><rect class="pill" x="212" y="46" width="200" height="48" rx="8"/><text class="ip ip0 mid" x="312" y="70" font-size="18">203.0.113.7</text><text class="ip ip1 mid" x="312" y="70" font-size="18">198.51.100.42</text><text class="ip ip2 mid" x="312" y="70" font-size="18">192.0.2.19</text><rect class="link" x="212" y="114" width="200" height="12" rx="6"/><rect class="ttl" x="212" y="114" width="200" height="12" rx="6"/><text x="24" y="125" font-size="15" class="dim">ttl 5s</text><g class="flagg"><rect class="pill flag" x="212" y="140" width="200" height="34" rx="8"/><text class="mid flagt" x="312" y="157" font-size="15">ml: fast flux</text></g><text x="26" y="206" font-size="30" font-weight="700">Fast Flux</text><text x="26" y="238" font-size="20" class="dim">emulation + ml detection</text><text x="414" y="206" font-size="22" class="dim" text-anchor="end">↗</text></svg>
